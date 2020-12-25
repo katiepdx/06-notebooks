@@ -5,6 +5,6 @@ const productList = document.querySelector('.product-list');
 
 // Render notebooks to DOM using notebook allNotebooks data
 allNotebooks.map(notebook => {
-  const item = renderProduct(notebook);
-  productList.append(item);
+    const item = renderProduct(notebook);
+    productList.append(item);
 });
