@@ -38,3 +38,8 @@ button:hover {
   background-color: black;
   color: white;
 }
+
+.nav-icons {
+  height: 50px;
+  width: 50px;
+}

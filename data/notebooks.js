@@ -17,7 +17,7 @@ const blankTopSpiral = {
 }
 
 const greenNotebook = {
-  id: 'greenNotebook235',
+  id: 'greennotebook235',
   name: 'Green Notebook',
   image: 'green-notebook.jpg',
   description: 'Green notebook',
