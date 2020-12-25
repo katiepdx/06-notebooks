@@ -20,7 +20,7 @@ export const renderProduct = (notebook) => {
 
   const button = document.createElement('button');
   button.value = notebook.id;
-  button.textContent = 'Add to Cart'
+  button.textContent = 'Add to Cart';
 
   li.append(
     p,
@@ -31,4 +31,4 @@ export const renderProduct = (notebook) => {
   );
 
   return li;
-}
+};
