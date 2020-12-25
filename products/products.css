@@ -1,3 +1,9 @@
+ul {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2%;
+}
+
 li {
   display: flex;
   flex-direction: column;
