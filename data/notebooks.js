@@ -42,3 +42,11 @@ const spiralNotebook = {
   category: 'spiral',
   price: 6.50
 }
+
+export const allNotebooks = [
+  blankNotebook,
+  blankTopSpiral,
+  greenNotebook,
+  narrowRuled,
+  spiralNotebook
+]
